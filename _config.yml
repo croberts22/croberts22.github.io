@@ -1,4 +1,7 @@
-theme: jekyll-theme-midnight
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/midnight
 title: Swift Segments
-description: A collection of thoughts, discoveries, and learnings in Swift. 
+description: A collection of thoughts, discoveries, and learnings in Swift.
 show_downloads: "false"
