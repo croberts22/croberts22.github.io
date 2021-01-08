@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "A Wild Swift Blog Appears!"
-permalink: /blog/a-wild-swift-blog-appears.html
-published: false
+title:  "A Wild Blog Appears!"
+permalink: /blog/a-wild-blog-appears.html
+published: true
 ---
 
 # New Year, New Blog
 
-I say this virtually every year, but I'm going to actually make a concerted effort to blog once more. 
+I say this virtually every year, but I'm going to actually make a concerted effort to blog once more.
 
-For real this time. 
+For real this time.
 
 I realized that the problem I had with writing was wanting to perfect it. My aspirations were to develop posts worthy of being re-read and cited, in order to help existing and new, aspiring developers to be better. After reading so many tech blogs, I noticed how well-written and thorough they were, and I wanted to match that. However, I also realized I didn't have the time nor the diligence to really pull even _one_ post successfully. I have easily seven or eight drafts of ideas that I unfortunately have not completed due to the lack of drive on the ultimate goal.
 
 ## It's Not an Uncommon Problem
 
-Last year, as I was transitioning away from engineering management to an IC, one of my colleagues sent me this podcast from [Design Better](https://www.designbetter.co/podcast/) that she thought was really insightful, relating to how the responsibilities of each group within a tech-focused organization has something only they can wield. 
+Last year, as I was transitioning away from engineering management to an IC, one of my colleagues sent me this podcast from [Design Better](https://www.designbetter.co/podcast/) that she thought was really insightful, relating to how the responsibilities of each group within a tech-focused organization has something only they can wield.
 
 I ended up digesting several more of these podcasts from this series, and I ended up finding one of my [favorite episodes](https://overcast.fm/+JvNKUdNwg) with [Julie Zhuo](https://juliezhuo.com/), former VP of product design at Facebook. In her talk, she discusses her book, [The Makings of a Manager](https://juliezhuo.com/book/manager.html), and she divulges ways she wanted to become better for her direct reports. One trick she used (in correlation to it being a New Year's resolution, coincidentally enough) was to write more in an effort to organize her thoughts, and to feel more confident about sharing her opinions out in the world, and being okay with it. Her goal was to push the publish button on the blog post every week, no matter how incomplete, trivial, or unrelated it may be. From her episode:
 
