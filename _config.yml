@@ -2,6 +2,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: pages-themes/midnight
+theme: jekyll-theme-midnight
 title: Swift Segments
 description: A collection of thoughts, discoveries, and learnings in Swift.
 show_downloads: "false"
