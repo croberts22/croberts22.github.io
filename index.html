@@ -14,6 +14,7 @@ layout: default
 {% endfor %}
 
 <!-- Pagination links -->
+{% if paginator.posts > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -31,3 +32,4 @@ layout: default
     <span class="next ">Next</span>
   {% endif %}
 </div>
+{% endif %}
