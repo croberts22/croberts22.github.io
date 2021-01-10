@@ -23,12 +23,10 @@
 
       <section>
         <div id="title">
-          <h1><a href="{{ site.baseurl }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <span class="credits left">
-            A blog written and maintained by <a href="{{ site.github.owner_url }}">{{ site.display_name }}</a>
-          </span>
+          <span class="credits left">A blog maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
         </div>
 
         {{ content }}
@@ -36,6 +34,15 @@
       </section>
 
     </div>
+
+    {% for tag in site.tags %}
+    <h3>{{ tag[0] }}</h3>
+    <ul>
+      {% for post in tag[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
 
     {% if site.google_analytics %}
       <script>

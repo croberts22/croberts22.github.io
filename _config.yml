@@ -1,8 +1,26 @@
-plugins:
-  - jekyll-remote-theme
+# Site settings
+title: Swift Segments
+email: spacepyro@protonmail.com
+description: A collection of thoughts, discoveries, and learnings in Swift and other fun languages.
+show_downloads: "false"
+baseurl: ""
+url: "https://spacepyro.com"
+twitter_username: spacepyro
+github_username: croberts22
+display_name: "Corey Roberts"
+paginate: 5
 
+# Build settings
 remote_theme: pages-themes/midnight
 theme: jekyll-theme-midnight
-title: Swift Segments
-description: A collection of thoughts, discoveries, and learnings in Swift.
-show_downloads: "false"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Layout Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
