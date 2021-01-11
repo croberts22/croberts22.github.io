@@ -5,6 +5,9 @@
 
 .publish_date { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; }
 
+.thumbnail { border-radius: 10%; max-width: 40%; height: auto; }
+.center_thumbnail { border-radius: 10%; display: block; margin-left: auto; margin-right: auto; max-width: 40%; height: auto; }
+
 section #title .credits { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; margin-top: -10px; width: 100%; display: inline-block; text-align: center; }
 
 a { color: #f06853; font-weight: 400; text-decoration: none; }
