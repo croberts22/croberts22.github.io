@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "A Wild Blog Appears!"
+author: "Corey Roberts"
 permalink: /blog/a-wild-blog-appears.html
 published: true
 summary: "Another year, another blog. 😅 Let's talk about how I'm actually going to follow my New Year's Resolutions in this tech blog dedicated to my learnings in Swift and other languages."
