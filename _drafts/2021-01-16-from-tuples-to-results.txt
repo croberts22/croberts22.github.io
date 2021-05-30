@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "Having fun with `Result`s"
+author: "Corey Roberts"
+permalink: /blog/having-fun-with-results.html
+published: false
+summary: ""
+---
+
+iOS development has come a long way when it comes to how code responds to actions (particularly, network calls) that return a binary result. We've recently been introduced to what is one of my favorite new conventions in the Swift programming language: `Result`. A `Result` is an enum that takes in two generic parameters: a type that denotes `Success`, and another for `Failure`. While this idea is not foreign from previous iterations of iOS, it has been the (no pun intended) result of adapting to ever-evolving patterns in software engineering. As someone who's worked in the Apple ecosystem for several years, it's kind of fun looking back at how far we've come, and how we can really appreciate the beauty of the `Result` type.
+
+## The Land Before Time
+
+Back in the day, Apple developers used `NSURLConnection`, which provided a myriad of delegate methods that one could listen to in order to determine whether a network request succeeded or failed. Obviously, delegation still exists today, but it took on a pretty prominent role before the popularity in blocks/closures came to be. For instance, being able to pull data from a network call consisted of hooking up to a delegate (that called into two sets of delegate methods) and piecing the data yourself: 
+
+```swift
+
+func makeRequest() {
+	self.connection = NSURLConnection(request: urlRequest, delegate: self)
+	self.connection.start()
+}
+
+// MARK: - NSURLConnectionDataDelegate
+ 
+func connection(connection, didReceive: data) {
+	print("Received data from response: \(data)")
+}
+
+func connectionDidFinishLoading(connection) {
+	print("Connection finished loading: \(connection)")
+}
+
+// MARK: - NSURLConnectionDelegate
+
+func connection(connection, didFailWithError: error) {
+	print("An error occurred: \(error)")
+}
+```
+
+This obviously can introduce a bit of hand-holding here. In the case of multiple network connections being bound to the same delegate owner, you'd need to come up with an association of data to a given connection. 

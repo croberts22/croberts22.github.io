@@ -2,6 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
+    <title>{{ site.title | default: site.github.repository_name }} | {{ page.title }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 {% seo %}
@@ -34,6 +35,8 @@
             A blog written and maintained by <a href="{% link about.md %}">{{ site.display_name }}</a>
           </span>
         </div>
+
+        <h1>{{ page.title }}</h1>
 
         {{ content }}
 
