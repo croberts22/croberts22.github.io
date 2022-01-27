@@ -1,7 +1,5 @@
 ---
-layout: default
 title:  "Moving Fast with Fastlane"
-author: "Corey Roberts"
 permalink: /blog/moving-fast-with-fastlane.html
 published: true
 summary: "fastlane is an incredible tool that helps automate several tasks in the world of mobile development. As someone who's used it for 5+ years, I wanted to highlight some tips and tricks that have helped me become even more agile with using fastlane."
