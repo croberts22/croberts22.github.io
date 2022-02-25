@@ -5,6 +5,9 @@ permalink: /blog/interviewing-software-engineers-effectively-lessons-learned-wit
 published: true
 toc: true
 toc_label: "Table of Contents"
+tags: 
+  - software engineering 
+  - interviews
 summary: "Interviewing for a company is hard. Being the interviewer can be harder. There are so many ways to approach a software engineering interview, from delivering a plethora of technical questions, to simulating team or company-based environments, to whiteboarding engineering problems with a subset of people. Given the wide number of vectors to gauge someone's competency and compatibility with your team, how can you be sure that you're interviewing someone effectively if you employ a simulation?"
 ---
 
