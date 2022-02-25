@@ -11,16 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swift Segments"
+title                    : "Coding in Space"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Corey Roberts"
-description              : "A collection of thoughts, discoveries, and learnings in Swift and other languages."
+description              : "A collection of thoughts, discoveries, and musings in Swift and other languages."
 url                      : "https://spacepyro.com"
 baseurl                  : ""
 repository               : croberts22
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "coreyroberts.io"
+      url: "https://coreyroberts.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/spacepyro"

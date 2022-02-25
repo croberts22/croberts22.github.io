@@ -23,6 +23,8 @@ $base0d: #62d6e8;
 $base0e: #b45bcf;
 $base0f: #00f769;
 
+$primary-color: #70e000;
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
