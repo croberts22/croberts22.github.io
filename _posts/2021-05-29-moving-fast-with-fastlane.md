@@ -2,6 +2,10 @@
 title:  "Moving Fast with Fastlane"
 permalink: /blog/moving-fast-with-fastlane.html
 published: true
+tags:
+  - software engineering
+  - fastlane
+  - iOS
 summary: "fastlane is an incredible tool that helps automate several tasks in the world of mobile development. As someone who's used it for 5+ years, I wanted to highlight some tips and tricks that have helped me become even more agile with using fastlane."
 ---
 
