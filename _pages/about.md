@@ -3,7 +3,10 @@ title: "Who I Am"
 permalink: /about/
 ---
 
-![Corey](/assets/images/me.png){:class="center_thumbnail"}
+<figure style="width: 300px" class="align-center">
+  <img src="/assets/images/me.png" alt="Hi! I'm me.">
+</figure>
+
 
 # 👋 Hi! I'm Corey.
 
@@ -15,9 +18,11 @@ In my personal time, I love to play videogames and work on maintaining my media 
 
 ## My Projects
 
-|             |             |
-| ----------- | ----------- |
-| ![MyAniList Icon](/assets/images/myanilist.png){:class="thumbnail"} | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) is the premiere anime and manga tracking app designed for iOS. Utilizing the latest in iOS technologies, it is the best way to organize and update your lists, as well as discover new series to watch and read. Compare your lists and scores with friends on AniList.co to see where you stand. |
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/myanilist.png" alt="">
+</figure>  
+[MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) is the premiere anime and manga tracking app designed for iOS. Utilizing the latest in iOS technologies, it is the best way to organize and update your lists, as well as discover new series to watch and read. Compare your lists and scores with friends on AniList.co to see where you stand.
 
 ## Patents
 
