@@ -1,6 +1,5 @@
 ---
 title:  "Interviewing Software Engineers Effectively: Lessons Learned with Simulations"
-author: "Corey Roberts"
 permalink: /blog/interviewing-software-engineers-effectively-lessons-learned-with-simulations.html
 published: true
 toc: true
