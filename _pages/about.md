@@ -14,7 +14,7 @@ I'm a software engineer who loves writing in the Apple ecosystem and aspires to 
 
 I graduated from the University of Texas at Austin in 2012 with a BS in Computer Science, and I decided to go back to get a Masters in Software Engineering in 2021.
 
-I've had the wonderful opportunity to work on some incredible apps in my professional career, including [MapMyRun](https://apps.apple.com/us/app/map-my-run-by-under-armour/id291890420), [MyFitnessPal](https://apps.apple.com/us/app/myfitnesspal/id341232718), and [My H-E-B](https://apps.apple.com/us/app/my-h-e-b/id1477891300). I'm currently working at [**H-E-B**](https://digital.heb.com/) as an iOS engineer.
+I've had the wonderful opportunity to work on some incredible iOS apps in my professional career, including [MapMyRun](https://apps.apple.com/us/app/map-my-run-by-under-armour/id291890420), [MyFitnessPal](https://apps.apple.com/us/app/myfitnesspal/id341232718), [My H-E-B](https://apps.apple.com/us/app/my-h-e-b/id1477891300), and [Reddit](https://apps.apple.com/us/app/reddit/id1064216828). I'm currently working at [**Reddit**](https://www.reddit.com/) doing iOS engineering.
 
 In my personal time, I love to play videogames and work on maintaining my media server. I am also an avid fan of drinking coffee, crafting a nice old fashioned, and eating ramen.
 
