@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Coding in Space"
+title                    : "SpacePyro Labs"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Corey Roberts"
+name                     : "SpacePyro Labs LLC"
 description              : "A collection of thoughts, discoveries, and musings in Swift and other languages."
 url                      : "https://spacepyro.com"
 baseurl                  : ""
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Corey Roberts"
   avatar           : "/assets/images/me.png"
-  bio              : "Senior iOS Engineer at @Reddit. Programming, videogame, and anime enthusiast."
+  bio              : "Engineering iOS experiences at [Reddit](https://reddit.com). Programming, videogame, and anime enthusiast."
   location         : "Austin, Texas"
   links:
     - label: "Website"
@@ -113,38 +113,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/spacepyro"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/croberts22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/spacepyro"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
