@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "spacepyro"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -110,9 +110,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://coreyroberts.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/spacepyro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/croberts22"
