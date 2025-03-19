@@ -35,6 +35,10 @@ This blog post describes how the team at Reddit attempts to solve building a com
 
 A method for providing activity data to a user for a workout session includes receipt of first activity data from a first activity sensor and receipt of second activity data from a second activity sensor during the workout session. A first parameter is generated for a workout attribute based on the first activity data received during a first time interval of the workout session, and a second parameter is generated for the workout attribute based on the second activity data received during a second time interval of the workout session. An aggregate parameter for the workout attribute is generated based on both the first parameter and the second parameter. The first activity data and the second activity data generated during the workout session are transmitted to a remote server where a third parameter for the workout attribute is generated.
 
+### [Forbes Reference for MyAniList](https://www.forbes.com/sites/laurenorsini/2018/05/30/myanimelist-passes-third-day-of-unexpected-downtime/)
+
+When MyAnimeList went down, a tweet of mine was referenced regarding the impact and what would eventually be the eventual migration of webservices from MyAnimeList to AniList.
+
 ### [WWDC 2016: SiriKit Workout Intent Integration](https://youtu.be/n5jXg_NNiCA?si=EasrHUn39eCofHJl&t=3412)
 
 <figure class="align-left">
